@@ -6,7 +6,7 @@ export default function page() {
         <input
           type="text"
           placeholder="Project name"
-          className="px-2 py-1 w-[100%] bg-[transparent] border-2 border-mainBorder"
+          className="px-2 py-1 w-[100%] bg-[transparent] border-2 border-mainBorder outline-none"
         />
         <div className="flex space-x-[8.7rem] mt-2">
           <button className="btn">Cancel</button>
