@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 function Project() {
   return (
-    <li className="flex mt-2 hover:scale-110 max-w-[90%] ease-in duration-[250ms]  ">
+    <li className=" flex mt-2 hover:scale-110 max-w-[90%] ease-in duration-[250ms]  ">
       <Link href="/" className="flex flex-1">
         <div className="p-1 align-middle border-2 border-mainBorder rounded-l-lg">
           <Image
